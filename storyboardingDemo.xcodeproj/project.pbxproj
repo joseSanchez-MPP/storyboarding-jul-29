@@ -15,6 +15,8 @@
 		8226D80624D1FAC80045DAAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8226D80424D1FAC80045DAAE /* LaunchScreen.storyboard */; };
 		8226D81124D1FAC80045DAAE /* storyboardingDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8226D81024D1FAC80045DAAE /* storyboardingDemoTests.swift */; };
 		8226D81C24D1FAC80045DAAE /* storyboardingDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8226D81B24D1FAC80045DAAE /* storyboardingDemoUITests.swift */; };
+		8226D82A24D1FDE80045DAAE /* Nomu_Anime_Profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */; };
+		8226D82C24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8226D7F624D1FAC20045DAAE /* storyboardingDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = storyboardingDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8226D7F624D1FAC20045DAAE /* Comic Book App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Comic Book App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8226D7F924D1FAC20045DAAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8226D7FB24D1FAC20045DAAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		8226D7FD24D1FAC20045DAAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +51,8 @@
 		8226D81724D1FAC80045DAAE /* storyboardingDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = storyboardingDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8226D81B24D1FAC80045DAAE /* storyboardingDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = storyboardingDemoUITests.swift; sourceTree = "<group>"; };
 		8226D81D24D1FAC80045DAAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Nomu_Anime_Profile.png; path = ../../../../Downloads/Nomu_Anime_Profile.png; sourceTree = "<group>"; };
+		8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "main-qimg-71996a861255e7190474435034b8d403.jpg"; path = "../../../../Downloads/main-qimg-71996a861255e7190474435034b8d403.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,7 +93,7 @@
 		8226D7F724D1FAC20045DAAE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8226D7F624D1FAC20045DAAE /* storyboardingDemo.app */,
+				8226D7F624D1FAC20045DAAE /* Comic Book App.app */,
 				8226D80C24D1FAC80045DAAE /* storyboardingDemoTests.xctest */,
 				8226D81724D1FAC80045DAAE /* storyboardingDemoUITests.xctest */,
 			);
@@ -103,6 +107,8 @@
 				8226D7FB24D1FAC20045DAAE /* SceneDelegate.swift */,
 				8226D7FD24D1FAC20045DAAE /* ViewController.swift */,
 				8226D7FF24D1FAC20045DAAE /* Main.storyboard */,
+				8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */,
+				8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */,
 				8226D80224D1FAC80045DAAE /* Assets.xcassets */,
 				8226D80424D1FAC80045DAAE /* LaunchScreen.storyboard */,
 				8226D80724D1FAC80045DAAE /* Info.plist */,
@@ -145,7 +151,7 @@
 			);
 			name = storyboardingDemo;
 			productName = storyboardingDemo;
-			productReference = 8226D7F624D1FAC20045DAAE /* storyboardingDemo.app */;
+			productReference = 8226D7F624D1FAC20045DAAE /* Comic Book App.app */;
 			productType = "com.apple.product-type.application";
 		};
 		8226D80B24D1FAC80045DAAE /* storyboardingDemoTests */ = {
@@ -232,7 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8226D82C24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg in Resources */,
 				8226D80624D1FAC80045DAAE /* LaunchScreen.storyboard in Resources */,
+				8226D82A24D1FDE80045DAAE /* Nomu_Anime_Profile.png in Resources */,
 				8226D80324D1FAC80045DAAE /* Assets.xcassets in Resources */,
 				8226D80124D1FAC20045DAAE /* Main.storyboard in Resources */,
 			);
@@ -441,7 +449,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = dev.josesanchez.storyboardingDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Comic Book App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,7 +466,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = dev.josesanchez.storyboardingDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Comic Book App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
