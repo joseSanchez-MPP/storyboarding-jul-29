@@ -17,6 +17,7 @@
 		8226D81C24D1FAC80045DAAE /* storyboardingDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8226D81B24D1FAC80045DAAE /* storyboardingDemoUITests.swift */; };
 		8226D82A24D1FDE80045DAAE /* Nomu_Anime_Profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */; };
 		8226D82C24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */; };
+		8226D82E24D2011F0045DAAE /* 2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8226D82D24D2011F0045DAAE /* 2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		8226D81D24D1FAC80045DAAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Nomu_Anime_Profile.png; path = ../../../../Downloads/Nomu_Anime_Profile.png; sourceTree = "<group>"; };
 		8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "main-qimg-71996a861255e7190474435034b8d403.jpg"; path = "../../../../Downloads/main-qimg-71996a861255e7190474435034b8d403.jpg"; sourceTree = "<group>"; };
+		8226D82D24D2011F0045DAAE /* 2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = 2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				8226D7FB24D1FAC20045DAAE /* SceneDelegate.swift */,
 				8226D7FD24D1FAC20045DAAE /* ViewController.swift */,
 				8226D7FF24D1FAC20045DAAE /* Main.storyboard */,
+				8226D82D24D2011F0045DAAE /* 2.storyboard */,
 				8226D82B24D1FF960045DAAE /* main-qimg-71996a861255e7190474435034b8d403.jpg */,
 				8226D82924D1FDE80045DAAE /* Nomu_Anime_Profile.png */,
 				8226D80224D1FAC80045DAAE /* Assets.xcassets */,
@@ -243,6 +246,7 @@
 				8226D82A24D1FDE80045DAAE /* Nomu_Anime_Profile.png in Resources */,
 				8226D80324D1FAC80045DAAE /* Assets.xcassets in Resources */,
 				8226D80124D1FAC20045DAAE /* Main.storyboard in Resources */,
+				8226D82E24D2011F0045DAAE /* 2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
